@@ -1,0 +1,154 @@
+@import url(../10_林郁庭/css/reset.css);
+
+body{
+    background-color: white;
+    font-family: Arial;
+}
+
+.wrapper{
+    width: 1200px;
+    background-color: white;
+    margin: 0 auto;
+    }
+
+    .top{
+        height: 70px;
+        font-size:18px;
+        line-height: 70px;
+        
+      
+    }
+
+
+    .top img{
+        height: 70px;
+        float: left;
+        padding-top: 10px;
+    
+        box-sizing: border-box;
+       }
+       .top ul{ float: right;}
+       .top li{
+         float: left;
+         margin-left: 30px;
+        }
+        .top li a{
+            text-decoration: none;
+            color:rgb(87, 85, 85);
+            font-weight:normal
+        }
+    
+       .top{overflow: hidden;}
+
+
+       
+   .main1{
+    height: 675px;
+    width: 1200px;
+    background-image: url(../10_林郁庭/img/main_kv.jpg);
+    background-repeat: no-repeat;
+    padding-left: 30px;
+ 
+
+   }
+   .main1 h1{
+    font-size: 80px;
+    color: burlywood;
+    font-weight: 600;
+    padding-top: 100px;
+    }
+
+    .main1 h2{
+        letter-spacing: 3px;
+        font-size: 30px;
+    }
+
+   
+    
+    .main1 a{
+        font-size: 25px;
+        text-decoration: none;
+        background-color:white;
+        display: block;
+        width: 200px;
+        height: 50px;
+        margin-top: 50px;
+        margin-bottom: 50px;
+        line-height: 50px;
+        text-align: center;
+        color: rgb(62, 123, 62);
+        font-weight: bold;
+        letter-spacing: 2px;
+        
+    }
+
+    .main1 p{
+        line-height: 30px;
+        font-size: 20px
+    }
+
+
+    .main2 h1{
+    font-size: 80px;
+    color: burlywood;
+    font-weight: 600;
+    padding-top: 60px;
+    padding-bottom: 30px;
+    text-align:center ;
+    }
+
+   .main2 p{
+    font-size: 30px;
+    text-align: center;
+    padding-bottom: 60px;
+    line-height: 36px;
+    
+    
+   }
+
+   .main3 ul{
+    padding-left: 5px;
+
+ 
+ 
+   }
+   
+   .main3 li{
+    width: 339px;
+ 
+    display: inline-block;
+    background-color: #897d7d;
+    margin-left: 40px;
+
+}
+.main3 h3{
+ font-size: 20px;
+ color: white;
+ padding-top: 20px;
+ padding-bottom: 10px;
+ padding-left: 20px;
+ 
+
+}
+.main3 p{
+    font-size: 20px;
+    color: white;
+   padding-left: 20px;
+    line-height: 30px;
+    padding-bottom: 20px;
+}
+
+
+
+.main3 a{
+    text-decoration: none;
+    display: block;
+    width: 200px;
+    height: 50px;
+    background-color:  #897d7d;
+    line-height: 50px;
+    text-align: center;
+    color: white;
+    margin: 50px auto;
+    letter-spacing: 2px;
+}
